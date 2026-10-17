@@ -1,15 +1,83 @@
-<h1 align="center">Hi 👋, I'm Sarkhedi Mahek</h1>
-<h3 align="center">A passionate Web Devlopment from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- ===== DATA ANALYTICS PROFILE ===== -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=DATA%20IN%20MOTION&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Exploring%20Data%20%7C%20Finding%20Insights%20%7C%20Building%20Projects&descAlignY=65&descSize=14" width="100%" />
+
+# Hi, I'm Mahek Sarkhedi 👋
+
+### 📊 Aspiring Data Analyst | Curious Mind | Data Storyteller
+
+*I turn raw data into meaningful insights, one project at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarkhedi)
+[![Learning](https://img.shields.io/badge/Always-Learning-00C9A7?style=for-the-badge)](#my-journey)
+
+</div>
+
+---
+
+## 🧭 My Data Journey
+
+```text
+Raw Data → Cleaning → Analysis → Visualization → Insights
+```
+
+I'm learning how to transform data into clear, useful stories that help people make better decisions.
+
+- 🔍 Exploring datasets and discovering patterns
+- 📈 Learning to build meaningful dashboards
+- 🧹 Practicing data cleaning and exploratory analysis
+- 🎯 Working toward becoming a professional Data Analyst
+
+## 🛠️ My Analytics Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📂 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarkhedi&show_icons=true&locale=en&layout=compact" alt="sarkhedi" /></p>
+| Project | What I'm Exploring |
+|---|---|
+| 📊 Sales Analysis | Trends, revenue & business performance |
+| 🧹 Data Cleaning | Handling missing values & duplicates |
+| 🗄️ SQL Case Studies | Queries, joins & aggregations |
+| 📈 Dashboard Design | Turning metrics into visual insights |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarkhedi&show_icons=true&locale=en" alt="sarkhedi" /></p>
+> Replace these ideas with links to your actual repositories as you build them.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkhedi&" alt="sarkhedi" /></p>
+## 📈 My GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 🌱 Currently Growing
+
+- SQL for data querying
+- Python for data analysis
+- Excel for reporting
+- Power BI for interactive dashboards
+- Statistics for better decision-making
+
+## 🤝 Let's Connect
+
+I'm open to learning, collaborating on beginner-friendly projects, and connecting with fellow data enthusiasts.
+
+<div align="center">
+
+**"Behind every dataset, there is a story waiting to be discovered."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
